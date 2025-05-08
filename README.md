@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiftGumbi
 - 👀 I’m interested in defining problems, collecting data, and cleaning data 
-- 🌱 I’m currently learning Data Science and WordPress
+- 🌱 I’m currently learning Data Science, WordPress and HTML 
 - 💞️ I’m looking to collaborate on ...Alx 
 - 📫 nosiphogumbi11@gmail.com
 
